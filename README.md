@@ -14,4 +14,4 @@ animation  // turn off / on the animation (default:'true')
 
 #### Note ####
 
-That was the Menu in MacOS like it was in the first developer preview of apple's new OSX 10.7 Lion
+That was the Menu in MacOS like it was in the first(!!) developer preview of apple's new OSX 10.7 Lion
